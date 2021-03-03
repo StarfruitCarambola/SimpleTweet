@@ -39,7 +39,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had a problem with seeing the Tweet. I used the Logcat and debugged it. I discovered that in the Tweets.java file, I wrote "created at" instead of "created_at" which caused the error in the API.
 
 ## Open-source libraries used
 
