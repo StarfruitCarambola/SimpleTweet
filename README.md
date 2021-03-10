@@ -66,7 +66,7 @@ I had a problem with seeing the Tweet. I used the Logcat and debugged it. I disc
     limitations under the License.
 ---
     
-##SimpleTweet Part 2
+## SimpleTweet Part 2
 
 Time spent: **3** hours spent in total
 
